@@ -1,7 +1,4 @@
 {
-  "devDependencies": {
-    "dotenv": "^10.0.0"
-  },
   "name": "simpal-wifi",
   "version": "1.0.0",
   "main": "src/client.js",
@@ -10,5 +7,8 @@
   },
   "keywords": [],
   "author": "",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
 }
